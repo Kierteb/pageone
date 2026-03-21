@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
   <!-- Outer: accent blue -->
   <rect x="4" y="4" width="56" height="56" rx="8" fill="#3b82f6"/>
-  <!-- Second: mid grey -->
-  <rect x="14" y="14" width="36" height="36" rx="6" fill="#71706e"/>
-  <!-- Core: paper -->
-  <rect x="24" y="24" width="16" height="16" rx="3" fill="#f5f5f0"/>
+  <!-- Second: paper -->
+  <rect x="14" y="14" width="36" height="36" rx="6" fill="#f5f5f0"/>
+  <!-- Core: mid grey -->
+  <rect x="24" y="24" width="16" height="16" rx="3" fill="#71706e"/>
 </svg>
